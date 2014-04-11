@@ -8,13 +8,13 @@ public class SimpleDotComTestDrive{
 		
 		String userGuess = "2";
 		
-		String result = dot.checkYourSelf(userGuess);
+		String result = dot.checkYourself(userGuess);
 		
-		String testResult = "failed";
+		/* String testResult = "failed";
 		
 		if(result.equals("hit")){
 			testResult = "passed";
 		}
-		System.out.println(testResult);
+		System.out.println(testResult); */
 	}
 }
