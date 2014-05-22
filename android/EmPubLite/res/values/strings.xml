@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">EmPub Lite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="profound">You were expecting something profound?</string>
+    <string name="button">Button</string>
+    <string name="fifty_percent">fifty_percent</string>
+    <string name="thirty_percent">thirty_percent</string>
+    <string name="twenty_percent">twenty_percent</string>
+    <string name="checked">This checkbox is : Checked</string>
+    <string name="unchecked">This checkbox is : UnChecked</string>
+    <string name="title_activity_check_box_demo">CheckBoxDemo</string>
+    <string name="title_activity_toggle_button">ToggleButtonActivity</string>
+    <string name="title_activity_radio_group">RadioGroupActivity</string>
+    <string name="rock">Rock</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="title_activity_relative">RelativeActivity</string>
+    <string name="url">URL</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_relative_overlap">RelativeOverlapActivity</string>
+    <string name="big">Big</string>
+    <string name="small">Small</string>
+    <string name="title_activity_table_demo">TableDemoActivity</string>
+    <string name="title_activity_scroll_demo">ScrollDemoActivity</string>
+    <string name="title_activity_progress_bar_demo">ProgressBarDemoActivity</string>
+
+</resources>
